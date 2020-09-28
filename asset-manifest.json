@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/typescript-app/static/css/main.d90debc8.chunk.css",
+    "main.js": "/typescript-app/static/js/main.cc18faa0.chunk.js",
+    "main.js.map": "/typescript-app/static/js/main.cc18faa0.chunk.js.map",
+    "runtime-main.js": "/typescript-app/static/js/runtime-main.b6ed7324.js",
+    "runtime-main.js.map": "/typescript-app/static/js/runtime-main.b6ed7324.js.map",
+    "static/js/2.d8fa18da.chunk.js": "/typescript-app/static/js/2.d8fa18da.chunk.js",
+    "static/js/2.d8fa18da.chunk.js.map": "/typescript-app/static/js/2.d8fa18da.chunk.js.map",
+    "index.html": "/typescript-app/index.html",
+    "precache-manifest.d51f49eb9207ac18de28479ae389853c.js": "/typescript-app/precache-manifest.d51f49eb9207ac18de28479ae389853c.js",
+    "service-worker.js": "/typescript-app/service-worker.js",
+    "static/css/main.d90debc8.chunk.css.map": "/typescript-app/static/css/main.d90debc8.chunk.css.map",
+    "static/js/2.d8fa18da.chunk.js.LICENSE.txt": "/typescript-app/static/js/2.d8fa18da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ed7324.js",
+    "static/js/2.d8fa18da.chunk.js",
+    "static/css/main.d90debc8.chunk.css",
+    "static/js/main.cc18faa0.chunk.js"
+  ]
+}
