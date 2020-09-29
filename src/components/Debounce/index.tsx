@@ -1,5 +1,6 @@
 import React from 'react';
 import {DebounceInput} from 'react-debounce-input';
+import './style.css';
 
 type Props ={
    onChange:Function;

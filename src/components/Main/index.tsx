@@ -17,7 +17,9 @@ const Main:React.FC= () => {
     },[]);
 
     return (
+        <div>
             <ShowUser sourceData={users}/>
+        </div>
     )
 }
 export default Main

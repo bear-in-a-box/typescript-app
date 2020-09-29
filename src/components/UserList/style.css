@@ -3,7 +3,6 @@
     text-align: center;
 }
 .ListHead ol{
-    color:rgb(189, 189, 189);
     display:inline-block;
 }
 .ListHead li{
@@ -12,6 +11,5 @@
 }
 span{
     margin: 10px;
-    font-weight: bold;
-    color:black;
+    font-weight: bolder;
 }
